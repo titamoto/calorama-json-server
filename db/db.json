@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "cucumber",
-      "image": "./images/cucumber.jpg",
+      "image": "images/cucumber.jpg",
       "type": "vegetable",
       "grams": 100,
       "calories": 10
