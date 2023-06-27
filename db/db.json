@@ -79,6 +79,22 @@
       "type": "meat",
       "grams": 100,
       "calories": 134
+    },
+    {
+      "id": 11,
+      "name": "banana",
+      "image": "./images/banana.jpg",
+      "type": "fruit",
+      "grams": 118,
+      "calories": 105
+    },
+    {
+      "id": 12,
+      "name": "shrimps",
+      "image": "./images/shrimps.jpg",
+      "type": "seafood",
+      "grams": 100,
+      "calories": 99
     }
   ]
 }
