@@ -3,7 +3,7 @@
 This is a repo for the JSON-Server of the Calorama web-app.
 The server is deployed on https://calorama.onrender.com.
 
-The GitHub repo for the Calorama app is located at https://github.com/titamoto/calorama.
+GitHub repo for Calorama app is located at https://github.com/titamoto/calorama.
 
 ## Setup
 
